@@ -1,5 +1,5 @@
 ---
-title: Orchid Pathways
+title: Jungle Pathways
 has_more_link: true
 more_link_text: Keep reading
 seo:
