@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Orchid Ecosystems
 subtitle: lorem-ipsum
 seo:
   title: ''
