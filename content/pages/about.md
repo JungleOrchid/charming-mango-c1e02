@@ -31,12 +31,13 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Sokar** 
+has worked in and with communtities for decades in the arts , community development, and the environment. After graduating from ANU with degrees in Ecology, Epidiemology and Asian Studies. She worked in SE Asia on grassroots projects designed to empower women and communtities to create their own paths for the future. Since then Sokar has acquired qualifications in education and mental health and worked mostly in remote communities in Australia which she has strong family connections to.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, she breeds chickens and collects lego. Sokar  lives in Cairns with her husband and 3 children.
 
 *Thank You for reading!*
